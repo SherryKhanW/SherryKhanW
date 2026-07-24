@@ -1,18 +1,35 @@
-# Hi, I'm Sheharyar Khan 👋
+<h1 align="center">Hi, I'm Sheharyar 👋</h1>
 
-**Computer Science & Finance @ NYU Abu Dhabi | Software Engineer | AI & Backend Developer**
+<p align="center">
+Computer Science & Finance @ NYU Abu Dhabi <br>
+Building scalable backend systems, AI applications, and developer tools
+</p>
 
-I'm passionate about building production-grade backend systems, AI-powered developer tools, and machine learning applications. I enjoy taking products from idea to deployment, whether that's scaling backend APIs, building LLM-powered tools, or competing at hackathons.
+<p align="center">
+<a href="https://linkedin.com/in/sheharyarukhan">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-ochre-six-51.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:muk2010@nyu.edu">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm currently a **Software Engineering Intern at Waada**, where I build production backend services across a distributed microservices architecture using **ASP.NET Core, PostgreSQL, gRPC, Redis, Elasticsearch, Docker, and Kubernetes**.
+I'm a Computer Science and Finance student at NYU Abu Dhabi graduating in May 2028.
 
-Previously I worked as an **AI/ML Engineering Intern at McLeuker AI**, building RAG pipelines, backend infrastructure, and cloud-native AI systems serving thousands of users. I've also conducted machine learning research at **NYU Abu Dhabi**, developing large-scale data processing pipelines and training ML models for academic research.
+Currently I'm a Software Engineering Intern at Waada, where I build production backend services across a distributed microservices architecture using ASP.NET Core, PostgreSQL, Redis, Elasticsearch, Docker, and gRPC.
 
-I love building products that combine software engineering with AI, especially tools that make developers more productive.
+Previously I worked as an AI/ML Engineering Intern at McLeuker AI, building RAG pipelines, cloud infrastructure, and backend systems serving 10,000+ users. I also conducted machine learning research at NYU Abu Dhabi, developing large-scale data pipelines and ML models supporting multiple research publications.
+
+Outside of internships, I enjoy building products at hackathons and exploring AI-powered developer tools.
 
 ---
 
