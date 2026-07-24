@@ -52,25 +52,22 @@ Outside of internships, I enjoy building products at hackathons and exploring AI
 <details>
 <summary><b>Relevant Coursework</b></summary>
 
-### Computer Science
-
-- Agile Software Development *(CSCI-UA 430, NYU CAS)*
-- Algorithmic Problem Solving *(CSCI-UA 480, NYU CAS)*
-- Algorithms *(CS-UH 1052G, NYU Paris)*
-- Computer Networking *(CS-UY 4793G, NYU Paris)*
-- Computer Systems Organization *(CS-UH 2010, NYU Abu Dhabi)*
-- Data Structures *(CS-UH 1050, NYU Abu Dhabi)*
-- Discrete Mathematics *(CS-UH 1002, NYU Abu Dhabi)*
-- Introduction to Computer Science *(CS-UH 1001, NYU Abu Dhabi)*
-- Introduction to Databases *(CS-UY 3083, NYU Tandon)*
-- Projects in Programming & AI *(TECH-UB 24, NYU Stern)*
-
-### Mathematics
-
-- Calculus with Applications to Science & Engineering *(MATH-UH 1012Q, NYU Abu Dhabi)*
-- Multivariable Calculus with Applications to Science & Engineering *(MATH-UH 1020, NYU Abu Dhabi)*
-- Linear Algebra *(MATH-UA 9140, NYU Abu Dhabi)*
-- Probability & Statistics *(MATH-UH 2011Q, NYU Abu Dhabi)*
+| Course | Code | Campus |
+|:--------|:----:|:------:|
+| Agile Software Development | CSCI-UA 430 | NYU CAS |
+| Algorithmic Problem Solving | CSCI-UA 480 | NYU CAS |
+| Algorithms | CS-UH 1052G | NYU Paris |
+| Computer Networking | CS-UY 4793G | NYU Paris |
+| Computer Systems Organization | CS-UH 2010 | NYU Abu Dhabi |
+| Data Structures | CS-UH 1050 | NYU Abu Dhabi |
+| Discrete Mathematics | CS-UH 1002 | NYU Abu Dhabi |
+| Introduction to Computer Science | CS-UH 1001 | NYU Abu Dhabi |
+| Introduction to Databases | CS-UY 3083 | NYU Tandon |
+| Projects in Programming & AI | TECH-UB 24 | NYU Stern |
+| Calculus with Applications to Science & Engineering | MATH-UH 1012Q | NYU Abu Dhabi |
+| Multivariable Calculus with Applications to Science & Engineering | MATH-UH 1020 | NYU Abu Dhabi |
+| Linear Algebra | MATH-UA 9140 | NYU Abu Dhabi |
+| Probability & Statistics | MATH-UH 2011Q | NYU Abu Dhabi |
 
 </details>
 
