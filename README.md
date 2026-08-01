@@ -66,7 +66,7 @@ Outside of internships, I enjoy building products at hackathons and exploring AI
 | Projects in Programming & AI | TECH-UB 24 | NYU Stern |
 | Calculus with Applications to Science & Engineering | MATH-UH 1012Q | NYU Abu Dhabi |
 | Multivariable Calculus with Applications to Science & Engineering | MATH-UH 1020 | NYU Abu Dhabi |
-| Linear Algebra | MATH-UA 9140 | NYU Abu Dhabi |
+| Linear Algebra | MATH-UH 1022Q | NYU Abu Dhabi |
 | Probability & Statistics | MATH-UH 2011Q | NYU Abu Dhabi |
 
 </details>
